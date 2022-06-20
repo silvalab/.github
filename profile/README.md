@@ -1,0 +1,9 @@
+<p align="center">
+  <img width="360" height="90" src="https://user-images.githubusercontent.com/54550994/174893079-a77498ac-8edd-4bbf-9cde-7218df037d80.jpg">
+</p>
+
+Welcome to the official Silva Lab Github!
+
+Here, you can find demos of some projects we are working on, as well as source code for papers that we have decided to make public.
+
+To get in contact with Dr. Jon Silva(Principal Investigator) or to learn more about our work at the Silva Lab, please visit our lab website at [silvalab.science](https://silvalab.science/).
